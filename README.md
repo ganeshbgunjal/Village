@@ -1,4 +1,4 @@
-This repo is understanding of git and github. 
+This repo is for understanding of git and github commands. 
 <br>
 Author:- Ganesh Gunjal
 <br>
